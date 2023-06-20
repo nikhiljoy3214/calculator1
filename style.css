@@ -1,0 +1,17 @@
+body{
+    background-color: #9fa8a3;
+}
+
+.btn{
+    width: 20%;
+    height: 20%;
+    
+}
+
+#maindiv{
+    width: 280px;
+    margin-top: 10%;
+    background-color: #c5d5cb;
+    border-radius: 5%;
+    
+}
